@@ -78,12 +78,14 @@ Check out the tool in action. This demo was submitted for the final round of SIH
 ## 🏆 SIH 2025 Achievement
 
 This project was developed for **Problem Statement ID: 25070** (Secure Data Wiping for Trustworthy IT Asset Recycling) under the **Ministry of Mines**. It aims to promote a circular economy by making the disposal of electronic waste safe and secure for individuals and organizations alike.
+This project stood as winner under the Internal Hackathon for SIH 2026
 
 -----
 
 ### **Team: TechZeno**
 
-*Lead Developer: Nitesh*
+*Lead Developer: Nitish Singh*
+*Assisting Developer: Sweta Kumari*
 
 -----
 
