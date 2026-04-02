@@ -83,7 +83,7 @@ This project stood as winner under the Internal Hackathon for SIH 2026
 
 ### **Team: TechZeno**
 
-*Lead Developer: Nitish Singh*
+*Lead Developer: Nitish Singh* ; 
 *Assisting Developer: Sweta Kumari*
 
 -----
