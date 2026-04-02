@@ -15,8 +15,7 @@ Conventional formatting or deletion merely removes the file pointers, leaving th
 ## 📺 Demo Video
 
 Check out the tool in action. This demo was submitted for the final round of SIH 2025:
-
-[](https://youtu.be/WV3siNaGdW4)
+https://youtu.be/WV3siNaGdW4
 
 -----
 
