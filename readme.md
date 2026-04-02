@@ -89,5 +89,3 @@ This project stood as winner under the Internal Hackathon for SIH 2026
 -----
 
 *Disclaimer: This tool is designed for permanent data destruction. Please use with caution, as data erased using WipeTech Pro cannot be recovered by any known means.*
-
-Demo : https://youtu.be/WV3siNaGdW4
