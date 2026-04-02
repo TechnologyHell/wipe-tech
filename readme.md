@@ -1,7 +1,3 @@
-Sure\! Here’s a professional README file tailored for your GitHub repository. It includes your demo video and covers all the key features of your project from SIH 2025.
-
------
-
 # WipeTech Pro - Secure Data Erasure Tool
 
 ### **Solving the Problem of Unsecure Data Deletion**
